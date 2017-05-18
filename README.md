@@ -29,8 +29,5 @@ win10
     https://codenvy.io/
 4.- dentro de cada repo puede comentarse el codigo para un mejor 
 entendimiento
-5.- puede usarse la app oficial de bitbucket para estar al tanto de las 
-modificaciones del codigo
-    
-https://play.google.com/store/apps/details?id=in.co.aashish.bit_git&hl=es
+
 ```
