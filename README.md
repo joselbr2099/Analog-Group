@@ -1,3 +1,4 @@
+```text 
  █████╗ ███╗   ██╗ █████╗ ██╗      ██████╗  ██████╗ 
 ██╔══██╗████╗  ██║██╔══██╗██║     ██╔═══██╗██╔════╝ 
 ███████║██╔██╗ ██║███████║██║     ██║   ██║██║  ███╗
@@ -32,3 +33,4 @@ entendimiento
 modificaciones del codigo
     
 https://play.google.com/store/apps/details?id=in.co.aashish.bit_git&hl=es
+```
