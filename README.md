@@ -22,7 +22,24 @@ Sprint 5  terminologia, tipos, herramientas
 Sprint 6  assembler
 ...
 
-el tiempo de cada sprint depende de la dificultad
+el tiempo de cada sprint depende de la dificultad los lenguajes base para los esprints son: 
+
+de nivel medio:
+c
+c++
+
+de nivel alto
+c#
+
+de bajo nivel
+assembler
+
+el sitio https://repl.it
+contiene cientos de cursos pra suarios de nivel medio 
+
+opcionales
+curso de c#
+https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/
 
 REQUISITOS:
 1.- entorno controlado con maquinas virtuales desde windows xp hasta 
