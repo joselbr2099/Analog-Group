@@ -21,5 +21,5 @@ API de windows:
 https://msdn.microsoft.com/library
 
 advertencia:
-cuiddo con la compilacion del virus
+cuidado con la compilacion del virus
 ```
