@@ -15,12 +15,8 @@ https://www.tutorialesprogramacionya.com/csharpya/
 http://www.elguille.info/NET/cursoCSharpErik/index.htm
 sololearn app android
 
-
 compiladores online:
 https://www.codechef.com/ide
-
-ejemplo virus en c:
-http://vxheaven.org/lib/vbw06.html
 
 API de windows:
 https://msdn.microsoft.com/library
