@@ -24,22 +24,17 @@ Sprint 6  assembler
 
 el tiempo de cada sprint depende de la dificultad los lenguajes base para los esprints son: 
 
-de nivel medio:
-c
-c++
-
-de nivel alto
-c#
-
-de bajo nivel
-assembler
+pueden usarse los siguientes ID'S online que permiten manejar varios lenguajes de programacion
+https://codenvy.io  (incluyte VB)
+https://c9.io
+https://codeanywhere.com/
+https://codetasty.com
 
 el sitio https://repl.it
-contiene cientos de cursos pra suarios de nivel medio 
+contiene cientos de cursos de programacion para suarios de nivel medio y tambien permite la programacion en diferentes lenguajes
 
-opcionales
-curso de c#
-https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/
+referencia de las API de windows MUY IMPORTANTE
+https://msdn.microsoft.com/library
 
 REQUISITOS:
 1.- entorno controlado con maquinas virtuales desde windows xp hasta 
