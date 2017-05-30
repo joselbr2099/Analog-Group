@@ -1,3 +1,4 @@
+```text 
 INTRODUCCION A LENGUAJE C
 
 OBJETIVO:
@@ -21,4 +22,4 @@ https://msdn.microsoft.com/library
 
 advertencia:
 cuiddo con la compilacion del virus
-
+```
