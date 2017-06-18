@@ -19,7 +19,7 @@ Sprint 2  lenguaje C
 Sprint 3  lengaaje C++
 Sprint 4  lenguaje C#
 Sprint 5  terminologia, tipos, herramientas 
-Sprint 6  assembler
+Sprint 6  entorno controlado
 ...
 
 el tiempo de cada sprint depende de la dificultad los lenguajes base para los esprints son: 
@@ -31,7 +31,8 @@ https://codeanywhere.com/
 https://codetasty.com
 
 el sitio https://repl.it
-contiene cientos de cursos de programacion para suarios de nivel medio y tambien permite la programacion en diferentes lenguajes
+contiene cientos de cursos de programacion para suarios de nivel medio y tambien permite la programacion 
+en diferentes lenguajes
 
 referencia de las API de windows MUY IMPORTANTE
 https://msdn.microsoft.com/library
