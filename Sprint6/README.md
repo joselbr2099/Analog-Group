@@ -1,5 +1,34 @@
-```text 
-VIRUS EN LENGUAJE ENSAMBLADOR
+ █████╗ ███╗   ██╗ █████╗ ██╗      ██████╗  ██████╗ 
+██╔══██╗████╗  ██║██╔══██╗██║     ██╔═══██╗██╔════╝ 
+███████║██╔██╗ ██║███████║██║     ██║   ██║██║  ███╗
+██╔══██║██║╚██╗██║██╔══██║██║     ██║   ██║██║   ██║
+██║  ██║██║ ╚████║██║  ██║███████╗╚██████╔╝╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ 
 
-EN CONSTRUCCION
-```
+ ██████╗ ██████╗  ██████╗ ██╗   ██╗██████╗          
+██╔════╝ ██╔══██╗██╔═══██╗██║   ██║██╔══██╗         
+██║  ███╗██████╔╝██║   ██║██║   ██║██████╔╝         
+██║   ██║██╔══██╗██║   ██║██║   ██║██╔═══╝          
+╚██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║              
+  |___|  |_______||__| |__||_|   |_|
+
+Los repos tendran el numero de sprint a cursar
+Sprint 1
+Sprint 2
+..
+
+el tiempo de cada sprint depnde de la dificultad
+
+REQUISITOS:
+1.- entorno controlado con maquinas virtuales desde windowsxp hasta 
+win10
+2.- compiladores de c (se recomienda visual studio 2017)
+3.- puede usarse compiladores online ejemplo:
+    https://c9.io
+    https://codenvy.io/
+4.- dentro de cada repo puede comentarse el codigo para un mejor 
+entendimiento
+5.- puede usarse la app oficial de bitbucket para estar al tanto de las 
+modificaciones del codigo
+    
+https://play.google.com/store/apps/details?id=in.co.aashish.bit_git&hl=es
