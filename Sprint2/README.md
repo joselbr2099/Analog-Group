@@ -1,4 +1,6 @@
 ```text 
+Sprin2
+
 INTRODUCCION A LENGUAJE C
 
 OBJETIVO:
@@ -6,6 +8,7 @@ aprender las basicas del lenguaje c
 comprender el codigo de ejemplo del virus
 compilar el virus
 
+GUIAS Y TUTORIALES:
 guias y tutoriales online:
 http://www.learn-c.org/
 https://www.tutorialspoint.com/cprogramming/

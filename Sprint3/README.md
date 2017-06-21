@@ -1,4 +1,6 @@
 ```text 
+Sprin3
+
 INTRODUCCION A LENGUAJE C++
 
 OBJETIVO:
@@ -6,7 +8,7 @@ aprender las basicas del lenguaje c++
 comprender el codigo de ejemplo del virus
 compilar el virus
 
-guias y tutoriales online:
+GUIAS Y TUTORIALES:
 http://www.learncpp.com/
 https://www.programiz.com/cpp-programming#learn-cpp-tutorial
 http://c.conclase.net/
