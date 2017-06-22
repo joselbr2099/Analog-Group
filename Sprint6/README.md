@@ -1,7 +1,7 @@
 ```text
-Sprin6 
+Sprint6 
 
-ENTRONO CONTROLADO CON CUCKOO
+ENTORNO CONTROLADO CON CUCKOO
 
 preparar el entorno controlado con la guia propuesta en este repo
 
