@@ -1,5 +1,5 @@
 ```text
-Sprin7 
+Sprint7 
 
 PRUEBAS EN EL ENTORNO CONTROLADO CON MALWARE REAL
 
@@ -9,15 +9,15 @@ OBJETIVO: probar 3 tipos de malware en el entorno controlado y subir los reporte
 ENLACES DE AYUDA:
 
 https://www.symantec.com/security_response/landing/threats.jsp 
-el sitiop de symantec proporcina actualizada de virus detectados 
+el sitio de symantec proporcina informacion actualizada de virus detectados 
 
 
 https://home.mcafee.com/VirusInfo/VirusCalendar.aspx?month=12&year=2017
-esta lista contiene virus que pueden recidir en memroria los 365 dias del año estan organizados por mes 
+esta lista contiene virus que pueden recidir en memoria los 365 dias del año estan organizados por mes 
 
 
 http://dasmalwerk.eu/
-este sitio contiene virus detectados durante las utltimas 24 se actualiza ygual cada 24 horas
+este sitio contiene virus detectados durante las utltimas 24 se actualiza igual cada 24 horas
 
 
 https://github.com/ytisf/theZoo
