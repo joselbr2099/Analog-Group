@@ -10,9 +10,6 @@ https://codenvy.io
 TAREAS:
 
 1.-PROGRAMACION
-editar el codigo del archivo "bomb.cs" aportado una mejor funcionabilidad
-se puede editar el codigo agregando sus correspondientes comentarios indicando la modificacion y el 
-ombre de quien lo hizo
 la bomba logica se divide en las siguientes partes:
 
 -ruta de ejecucion y/o ocultacion
