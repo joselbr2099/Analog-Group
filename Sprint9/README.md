@@ -18,7 +18,7 @@ registrarse a codemvy.io para el trabajo colaborativo
 este IDE online nos permite compilar codigo y ver los resultados 
 cada linea modificada debe estar con su respectivo comentario e indicando quien lo hizo
 todos pueden crear ficheros o directorios 
-para cada fichero debe indcarse en las cabeceras en forma de comentario una descripcion y quien lo hizo
+para cada fichero debe indicarse en las cabeceras en forma de comentario una descripcion y quien lo hizo
 
 2.- seguir los demas sub sprints para mas instrucciones
 ```
