@@ -1,0 +1,44 @@
+```text 
+Sprint 9.1
+
+DISEÑO DE BOMBA LOGICA (PRUEBA DE CONCEPTO)
+
+OBJETIVO: programar una bomba logica en c# usando el IDE online codenvy
+
+https://codenvy.io
+
+TAREAS:
+
+1.-PROGRAMACION
+editar el codigo del archivo "bomb.cs" aportado una mejor funcionabilidad
+se puede editar el codigo agregando sus correspondientes comentarios indicando la modificacion y el nombre de quien lo hizo
+la bomba logica se divide en las siguientes partes:
+
+-ruta de ejecucion y/o ocultacion
+ en esta parte debe programarse donde y como debe estar oculta la bomba logica
+ tambien puede verse diversos tipos de como permanecer en el equipo y/o cargarse al inicio
+ adjuntare a algun proceso etc
+ 
+-tiempo de ejecucion y condicion
+ la condicion principal de "estallido" de la bomba logica deben abarcarse posibles casos que puedan perjudicar 
+ la ejecucion de la bomba por ejemplo que el equipo victima este apagado en la fecha o condicion de estallido
+ 
+-accion de la bomba logica
+ esta es la accion principal de la bomba logica cuando la condicion anterior se cumpla
+ puede agregarse diversos tipos de accion 
+ 
+-metodo de infeccion
+ aqui se vera las formas y maneras de como puede ser infectado un equipo remoto 
+ ejemplo usando un joiner etc
+ 
+-evasion de antivirus
+ metodos y tecnicas de evacion de antivirus 
+ 
+2.-CODENVY
+en codenvy debe crearse una carpeta con su respectivo nombre y este debe contener todo el codigo fuente de la bomba logica
+ 
+3.- PRUEBAS EN EL ENTORNO CONTROLADO (CUCKOO)
+ una vez terminada la etapa de programacion se deben realizar las pruebas pertinentes en el entorno de controlado
+ simulando los dieferentes ecenarios y sistemas operativos para encontrar y corregir errores
+ se debe subir los reportes de cada uno a su respectivaa carpeta en codenvy
+ ```
