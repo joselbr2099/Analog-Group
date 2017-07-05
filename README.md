@@ -22,7 +22,7 @@ Sprint 5  terminologia, tipos, herramientas
 Sprint 6  entorno controlado
 Sprint 7  pruenas en el entorno controlado
 Sprint 8  Win32 API 
-Sprint 9  Prueba de concepto
+Sprint 9  Prueba de concepto programacion de malware sencillo
 Sprint 10  Proyecto final
 ...
 
