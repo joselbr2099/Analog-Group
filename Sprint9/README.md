@@ -13,7 +13,8 @@ registrarse a codemvy.io para el trabajo colaborativo
 	-registrarse 
 	-enviar al grupo de telegram el correo asociado a su cuenta de codenvy 
 	 si crearon cuenta con github enviar el correo asociado a su cuenta de github
-	-una vez registrados revisar el dashboard e ingresar al entorno de desarrollo donde esta el codigo a editar (WORKSPACE)
+	-una vez registrados revisar el dashboard e ingresar al entorno de desarrollo donde 
+	 esta el codigo a editar (WORKSPACE)
 
 este IDE online nos permite compilar codigo y ver los resultados 
 cada linea modificada debe estar con su respectivo comentario e indicando quien lo hizo
