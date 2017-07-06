@@ -10,30 +10,42 @@ https://codenvy.io
 TAREAS:
 
 1.-PROGRAMACION
-la bomba logica se divide en las siguientes partes:
+la bomba logica se divide en las siguientes modulos:
 
+MODULO 1
 -ruta de ejecucion y/o ocultacion
  en esta parte debe programarse donde y como debe estar oculta la bomba logica
  tambien puede verse diversos tipos de como permanecer en el equipo y/o cargarse al inicio
  adjuntare a algun proceso etc
+ TAREA: programar una aplicacion de consola que cumpla solo este modulo
  
+MODULO 2
 -tiempo de ejecucion y condicion
  la condicion principal de "estallido" de la bomba logica deben abarcarse posibles casos que puedan perjudicar 
  la ejecucion de la bomba por ejemplo que el equipo victima este apagado en la fecha o condicion de estallido
- 
+ TAREA: programar una aplicacion de consola que cumpla solo este modulo
+
+MODULO 3
 -accion de la bomba logica
  esta es la accion principal de la bomba logica cuando la condicion anterior se cumpla
  puede agregarse diversos tipos de accion 
- 
+ TAREA: programar una aplicacion de consola que cumpla solo este modulo
+
+MODULO 4
 -metodo de infeccion
  aqui se vera las formas y maneras de como puede ser infectado un equipo remoto 
  ejemplo usando un joiner etc
+ TAREA: programar una aplicacion de consola que cumpla solo este modulo
  
+MODULO 5 
 -evasion de antivirus
  metodos y tecnicas de evacion de antivirus 
+ TAREA: programar una aplicacion de consola que cumpla solo este modulo 
+
+cada modulo tiene duracion de UN DIA el codigo de cada modulo debe estar en codenvy en la carpeta de cada desarollador
  
 2.-CODENVY
-en codenvy debe crearse una carpeta con su respectivo nombre y este debe contener todo el codigo fuente de la bomba logica
+en codenvy debe crearse una carpeta con su respectivo nombre y este debe contener todo el codigo fuente de cada modulo
  
 3.- PRUEBAS EN EL ENTORNO CONTROLADO (CUCKOO)
  una vez terminada la etapa de programacion se deben realizar las pruebas pertinentes en el entorno de controlado
